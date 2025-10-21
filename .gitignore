@@ -1,0 +1,4 @@
+.DS_Store
+
+# Specification files (used during development only, deleted with worktree)
+.claude/specs/
