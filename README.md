@@ -907,8 +907,6 @@ This is a **template repository** meant to be forked and customized for your own
 4. Test thoroughly
 5. Submit a pull request
 
-**Sharing Your Customizations**: If you've created an interesting customization (e.g., specific tech stack rules, integration with tools like Jira), consider sharing it in [GitHub Discussions](https://github.com/priyashpatil/claude-code-spec-driven-with-worktrees/discussions) so others can learn from your approach!
-
 ## License
 
 MIT License
@@ -926,7 +924,6 @@ See the [LICENSE](LICENSE) file for full details.
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/priyashpatil/claude-code-spec-driven-with-worktrees/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/priyashpatil/claude-code-spec-driven-with-worktrees/discussions)
 - **Claude Code Docs**: [docs.claude.com](https://docs.claude.com/en/docs/claude-code)
 
 ## Credits
